@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Bello Muhammed - Developer Portfolio Sample
 
-## Getting Started
+A modern, minimalist portfolio website for a Frontend Engineer specialising in React, Next.js, and AI integration. Designed with a sleek dark theme, smooth GPU-accelerated animations, and a focus on performance.
 
-First, run the development server:
+![Portfolio Preview](https://via.placeholder.com/1200x600/0A0A0A/6366F1?text=Bello+Muhammed+-+Portfolio+Preview) <!-- Update this link with a real screenshot of your site later -->
+
+<!-- 🌐 **Live Demo:** [bellomuhammed.com](https://bellomuhammed.com) *(Update with your actual link)* -->
+
+## ✨ Features
+
+- **Modern Tech Stack**: Built with Next.js (App Router), React, and TypeScript.
+- **Next-Gen Styling**: Styled using the newly released **Tailwind CSS v4** (Zero-config CSS variables).
+- **Fluid Animations**: Scroll-triggered fade-ins and an infinite tech-stack marquee powered by **Framer Motion** & pure CSS.
+- **Fully Responsive**: Mobile-first design that looks great on phones, tablets, and desktop displays.
+- **Working Contact Form**: Integrated with **Web3Forms** to send emails directly to your inbox without needing a backend.
+- **SEO Optimized**: Pre-configured meta tags, Open Graph data, and semantic HTML structure.
+
+## 🛠️ Tech Stack
+
+- **Framework**:[Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Form Handling**:[Web3Forms](https://web3forms.com/)
+- **Deployment**: [Vercel](https://vercel.com)
+
+## 🚦 Getting Started
+
+Follow these steps to run the project locally on your machine.
+
+### 1. Clone the repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/sallah/favour-portfolio.git
+cd favour-portfolio
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
